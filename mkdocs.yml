@@ -1,1 +1,15 @@
 site_name: Labs Engineering Standards
+
+markdown_extensions:
+    - tables
+
+nav:
+- Home: 'index.md'
+- Topics:
+    - Developer Workflow: topics/developer-workflow.md
+    - Programming Languages: topics/programming-languages.md
+    - Git: topics/git.md
+    - Code Quality: topics/code-quality.md
+    - Data Persistence: topics/data-persistence.md
+    - Security: topics/security.md
+    - Writing Standards: topics/writing-standards.md
