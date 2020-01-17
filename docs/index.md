@@ -17,12 +17,6 @@ This guide is divided into separate topics, saved here in Notion as pages. A top
 
 ## Process
 
-These standards will morph over time as we adapt to the ever-changing technology landscape. In addition, the stardards will embrace a subset of all of the available technologies, so that teams have options when making technical decisions. To in order to ensure that these documents are inclusive of the needs of all Labs groups, each standard will be ratified by a majority vote from the Labs Engineering Standards board:
-
-- Jess Martin
-- Bernie Durfee
-- Jake Mallory
-- Derek Peters
-- Ryan Hamblin
+These standards will morph over time as we adapt to the ever-changing technology landscape. In addition, the stardards will embrace a subset of all of the available technologies, so that teams have options when making technical decisions. To in order to ensure that these documents are inclusive of the needs of all Labs groups, each new standard or change to an existing standard will be ratified by approval from 3 Labs Tech Leads.
 
 - [Writing Standards](topics/writing-standards.md)
