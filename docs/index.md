@@ -4,6 +4,8 @@
 
 This document describes the engineering standards that teams working in Lambda X must comply with. Adherence to these standards are critical to the continued success of the Lambda X organization, as they allow us to more effectively manage the scores of teams working across hundreds of products.
 
+[GitHub Repository](https://github.com/Lambda-School-Labs/labs-engineering-standards)
+
 ## Topics
 
 This guide is divided into separate topics, saved here in Notion as pages. A topic corresponds to a specific area of concern in software engineering:
